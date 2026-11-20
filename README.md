@@ -2,6 +2,7 @@
 
 Proyecto desarrollado en Python aplicando Programación Orientada a Objetos (POO) y manejo estructurado de excepciones, sin uso de bases de datos, para gestionar clientes, servicios y reservas de la empresa Software FJ.
 
+UNIVERSIDAD UNAD
 **Curso:** Programación (213023)  
 **Estudiante:** Nelson Yadir Forigua Parra (Desarrollo individual)
 
